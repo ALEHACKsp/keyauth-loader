@@ -1,0 +1,14 @@
+C:\Users\corru\Desktop\ST.exe Spoofer\bin\Debug\Loader.exe.config
+C:\Users\corru\Desktop\ST.exe Spoofer\bin\Debug\Loader.exe
+C:\Users\corru\Desktop\ST.exe Spoofer\bin\Debug\Loader.pdb
+C:\Users\corru\Desktop\ST.exe Spoofer\obj\Debug\Loader.csprojAssemblyReference.cache
+C:\Users\corru\Desktop\ST.exe Spoofer\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Users\corru\Desktop\ST.exe Spoofer\obj\Debug\Loader.exe
+C:\Users\corru\Desktop\ST.exe Spoofer\obj\Debug\Loader.pdb
+C:\Users\corru\Desktop\ST HWID SPOOFER\ST 1909\bin\Debug\Loader.exe.config
+C:\Users\corru\Desktop\ST HWID SPOOFER\ST 1909\bin\Debug\Loader.exe
+C:\Users\corru\Desktop\ST HWID SPOOFER\ST 1909\bin\Debug\Loader.pdb
+C:\Users\corru\Desktop\ST HWID SPOOFER\ST 1909\obj\Debug\Loader.csproj.AssemblyReference.cache
+C:\Users\corru\Desktop\ST HWID SPOOFER\ST 1909\obj\Debug\Loader.csproj.CoreCompileInputs.cache
+C:\Users\corru\Desktop\ST HWID SPOOFER\ST 1909\obj\Debug\Loader.exe
+C:\Users\corru\Desktop\ST HWID SPOOFER\ST 1909\obj\Debug\Loader.pdb
